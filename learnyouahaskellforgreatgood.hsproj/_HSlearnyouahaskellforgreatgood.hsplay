@@ -1,0 +1,14 @@
+-- Haskell Playground 1.0
+True && False
+5 == 5
+5 /= 4
+succ 8
+min 0 1 
+div 92 10
+92 `div` 10
+succ (succ 9)
+doubleMe 9
+doubleUs 8 9
+
+doubleSmallNumber 10
+doubleSmallNumber' 10
